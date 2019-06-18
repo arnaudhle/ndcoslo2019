@@ -1,1 +1,1 @@
-alert('file changed')
+alert('file changed');
